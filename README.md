@@ -2,6 +2,11 @@
  
 *Final project from Wesleyan University's "Data Analysis and Interpretation" specialization on Coursera / DrivenData.org project. Repository includes predcitive model and written report of findings.*
 
+- Report: https://github.com/mvenouziou/Project-Exploratory-Data-Analysis-and-Classification/blob/main/Predictive%20Models%20for%20Maintenance%20of%20Water%20Pumps%20in%20Remote%20Locations.pdf
+
+- Classification Model: https://github.com/mvenouziou/Project-Exploratory-Data-Analysis-and-Classification/blob/main/water_table_Driven_Data.ipynb
+
+
 Clean, potable water is a basic human need. Beyond mere access to water, proximity to a
 reliable water source is a major factor in determining the educational and economic
 opportunities available to adjacent communities. Because of this, the development and
